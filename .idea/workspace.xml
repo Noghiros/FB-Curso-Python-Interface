@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07302da2-146b-4445-ab7c-a3a02f9496bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/[Fundação Bradesco] Aula Python - interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="07302da2-146b-4445-ab7c-a3a02f9496bb" name="Changes" comment="Exercicios Fundação Bradesco">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex 4/cronometro.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,8 @@
     "Python.teste_funcionario.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Cognitionis/Fundação Bradesco/app/[Fundação Bradesco] Aula Python - interface"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,6 +78,23 @@
       <option name="presentableId" value="Default" />
       <updated>1707515923296</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicios Fundação Bradesco">
+      <option name="closed" value="true" />
+      <created>1708637734436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708637734436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicios Fundação Bradesco">
+      <option name="closed" value="true" />
+      <created>1708637740416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708637740416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicios Fundação Bradesco" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios Fundação Bradesco" />
   </component>
 </project>
